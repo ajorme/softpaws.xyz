@@ -2,46 +2,36 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Let's Get Started
 
-Let's discover **Docusaurus in less than 5 minutes**.
+:::info
+Nothing on this site is financial advice.
+:::
 
-## Getting Started
+## Services
 
-Get started by **creating a new site**.
+SoftPaws currently offers services on the Echelon network. SoftPaws is a very active validator contributing validation services,
+an IBC relayer, and public endpoints. Please find the endpoints listed below as well as the Echelon validator address for SoftPaws.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+:::tip
+If you're looking to start staking just
+click [here](/docs/category/staking).
+:::
 
-### What you'll need
+| Service        | Address                                               |
+| -------------- | ----------------------------------------------------- |
+| Validator      | echelonvaloper15z5dphcvgvtd9c0q7e7wau782ac0hzengnx0ug |
+| Tendermint RPC | https://ech-rpc.softpaws.xyz                          |
+| EVM RPC        | https://ech-evm-ws.softpaws.xyz                       |
+| API            | https://ech-api.softpaws.xyz                          |
+| GRPC           | https://ech-grpc.softpaws.xyz                         |
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Mission
 
-## Generate a new site
+I am very active in the projects I am involved in. I am dedicated to growing these projects and am involved because I believe in them. I aim to provide whatever assistance I can to these projects and to help others learn about them. Feel free to reach out to me on [keybase](https://keybase.io/kittyxxsoftpaws), or find me on discord by my username _kittyxxSoftpaws#1708_ at my [server](https://discord.gg/3qamCq9dNq).
 
-Generate a new Docusaurus site using the **classic template**.
+:::tip
+Need help? Message me by my username _kittyxxSoftpaws#1708_ at my [server](https://discord.gg/3qamCq9dNq).
+:::
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+<img src="/img/softpaws-axe.png" length="200" width="200" class="center"/>
