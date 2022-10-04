@@ -10,21 +10,7 @@ Nothing on this site is financial advice.
 
 ## Services
 
-SoftPaws currently offers services on the Echelon network. SoftPaws is a very active validator contributing validation services,
-an IBC relayer, and public endpoints. Please find the endpoints listed below as well as the Echelon validator address for SoftPaws.
-
-:::tip
-If you're looking to start staking just
-click [here](/docs/category/staking).
-:::
-
-| Service        | Address                                               |
-| -------------- | ----------------------------------------------------- |
-| Validator      | echelonvaloper15z5dphcvgvtd9c0q7e7wau782ac0hzengnx0ug |
-| Tendermint RPC | https://ech-rpc.softpaws.xyz                          |
-| EVM RPC        | https://ech-evm-ws.softpaws.xyz                       |
-| API            | https://ech-api.softpaws.xyz                          |
-| GRPC           | https://ech-grpc.softpaws.xyz                         |
+SoftPaws currently offers validation and enpoint services on the Echelon network. I'm looking to expand my services. Please message me if you have an opportunity. SoftPaws is currently a one man show run by me KittyxxSoftPaws. I also am an active voter on Kassandra DAO. You can delegate your KACY to me (or other KACY holders) if you do not wish to vote on your own. I run a Twitter account where I provide ambassador services for the Echelon network (paid) and Kassandra DAO. You can find any blog posts I create on medium. 
 
 ## Mission
 

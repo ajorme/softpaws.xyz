@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 6
 ---
 
 # Reference Sheet
@@ -42,3 +42,4 @@ sidebar_position: 1
 | [Restake](https://restake.app/echelon)                  | Tool for auto-compounding staked coins for Echelon and other Cosmos based chains. |
 | [Echelon Discord Server](https://discord.gg/2gXVYzqQA7) | Used for primary communications.                                                  |
 | [ Echelon Telegram](https://t.me/echelonchain)          | Secondary communication channel.                                                  |
+| [ ECH World](https://ech.world/)          | All about Echelon blockchain. (Has Project List)                                             |

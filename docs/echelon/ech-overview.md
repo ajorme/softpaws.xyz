@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # What is Echelon?
@@ -17,4 +17,6 @@ Echelon is a Cosmos and EVM compatible blockchain combining the best of the Cosm
 - Usage of the trusted Tendermint Core. Providing a trusted consensus mechanism for the network and crucial compatibility with other Cosmos blockchains.
 - Usage of the Cosmos SDK. The other crucial component in providing compatibility with other Cosmos blockchains. This is used by chains such as the Cosmos Hub, Osmosis, Juno, and many more.
 
-<img src="/img/ech-icon.png" height="150px" width="150px"/>
+:::tip
+Want more information? Start at [ech.network](https://ech.network).
+:::

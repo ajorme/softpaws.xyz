@@ -42,7 +42,7 @@ These are the rewards given out to those who are staking the coin. If you stake 
 
 ### Usage Incentives
 
-These are incentives that can be assigned for incentivizing the use of certain smart contracts deployed on the chain.
+These are incentives that can be assigned for incentivize the use of certain smart contracts deployed on the chain.
 
 ### Community Pool
 
@@ -57,7 +57,7 @@ It's important to understand that inflation simply means new coins are being min
 There are a maximum of 100 validators validating the chain. If a validator is unable to validate blocks for any reason they will be jailed after 10,0000 missed blocks (13.8 hours). This number is given by _signed blocks window_ parameter. If a validator is jailed all coins delegated to them will be slashed .01%. If a validator is signs a block twice, this is seen as a malicious action, and all coins delegated to them will be slashed 5%. Validators can set the commission for delegating with them. This is the percent of the staking rewards given to the validator you choose to delegate (stake) to. The minimum commission is 5%.
 
 :::warning
-Be careful when selecting a validator. Choosing a poor validator can result in your funds being slashed as shown above. Always check a validators commission rate. Validators can change their commission by up to 1% at a time.
+Be careful when selecting a validator. Choosing a poor validator can result in a loss of funds. Always check a validator's commission rate. Validators can change their commission by up to 1% at a time.
 :::
 
 ## Unbonding

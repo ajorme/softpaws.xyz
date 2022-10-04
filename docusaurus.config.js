@@ -56,7 +56,7 @@ const config = {
             label: 'Services and Guides',
           },
           {
-            href: "https://status.softpaws.xyz",
+            href: "http://status.softpaws.xyz:8888",
             position: 'left',
             label: 'Validator Status'
           },

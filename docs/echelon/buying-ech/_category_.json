@@ -1,0 +1,8 @@
+{
+  "label": "Buying ECH",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "There are several ways to buy ECH and get it to mainnet. You can also bridge other tokens to the mainnet. Only two methods will be covered here as they are the most supported methods. "
+  }
+}
