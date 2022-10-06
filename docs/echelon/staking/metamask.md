@@ -9,6 +9,7 @@ Plan carefully when staking. It will take 21 days to unbond (unstake) your ECH i
 :::
 
 ## Connecting Metamask
+
 Follow the [Connecting Your Wallet Guide](/docs/echelon/connecting)
 
 ## Stake Using the Dapp
@@ -19,10 +20,6 @@ Follow the [Connecting Your Wallet Guide](/docs/echelon/connecting)
 4. Choose the amount of ECH you want to delegate.
 5. Click Delegate
 6. Sign the transaction in metamask
-
-<img src="/img/ech-staking/dapp.png"/>
-<br/>
-<br/>
 
 :::tip
 If you would prefer to find a different validator use [Cosmos Directory](https://cosmos.directory/echelon/validators) to see a full list of validators with useful attributes. You can also use [Ping.Pub](https://ping.pub/echelon/uptime) to view the uptime of different validators.
