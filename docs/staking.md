@@ -16,7 +16,7 @@ Staking is the act of locking tokens, usually for a set amount of time or with a
 ## What is Delegating?
 Delegating is generally associated with staking, but is in fact different. Delegating entails the giving (delegating) of voting rights to someone else to vote on your behalf. Often in crypto the terms staking and delegating are used interchangeably. 
 
-## What is a Validator
+## What is a Validator?
 A validator validates blocks on a network. Delegators stake or delegate their tokens to a validator in order to earn rewards. Validators then vote on behalf of the delegators who have delegated to them. Usually, a delegator can vote for themselves if they wish. Validators play an essential role in securing a blockchain. They are usually take a commission fee for delegating to them. 
 
 ## How Are Rewards Paid? 
