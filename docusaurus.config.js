@@ -63,6 +63,11 @@ const config = {
             label: 'Validator Status'
           },
           {
+            href: "https://ech.world/projects/",
+            position: 'left',
+            label: "Echelon Project List"
+          },
+          {
             href: "https://discord.gg/3qamCq9dNq",
             position: 'right',
             label: 'Discord'
