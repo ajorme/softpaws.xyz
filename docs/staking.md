@@ -8,7 +8,7 @@ sidebar_position: 2
 | Network | Staking Link | Guide |
 |-----|------| ------ |
 |Echelon| https://app.ech.network| [Staking on Echelon](/docs/category/staking-on-echelon) |
-|Kassandra| https://app.kassandra.finance/farm?tab=stake | not made |
+|Kassandra| https://app.kassandra.finance/farm?tab=stake | [Staking On Kassandra](/docs/kassandra/staking)|
 
 ## What is Staking?
 Staking is the act of locking tokens, usually for a set amount of time or with a withdrawal delay, in order to earn a reward. The reward is normally paid out in the same token, but can be paid out in other tokens. This is a rudimentary definition. Different protocols find all sorts of creative ways to use the term staking. 

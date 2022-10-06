@@ -42,6 +42,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'keywords', content: 'echelon, echelon staking, kassandra, kassandra staking, kassandra dao, echelon chain, crypto guide, crypto, staking'}],
+
       navbar: {
         title: 'SoftPaws',
         logo: {

@@ -10,7 +10,7 @@ Plan carefully when staking. It will take 21 days to unbond (unstake) your ECH i
 
 ## Connecting Metamask
 
-Follow the [Connecting Your Wallet Guide](/docs/echelon/connecting)
+Follow the [Connecting Metamask Guide](/docs/echelon/wallet/metamask)
 
 ## Stake Using the Dapp
 
