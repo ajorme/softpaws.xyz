@@ -25,7 +25,7 @@ sidebar_position: 6
 | Type           | Endpoint                        | Description                                |
 | -------------- | ------------------------------- | ------------------------------------------ |
 | Tendermint RPC | https://ech-rpc.softpaws.xyz    | Use with Keplr                             |
-| EVM RPC        | https://ech-evm-ws.softpaws.xyz | Use with Metamask                          |
+| EVM RPC        | https://ech-evm.softpaws.xyz | Use with Metamask                          |
 | API            | https://ech-api.softpaws.xyz    | Use to make API calls                      |
 | GRPC           | https://ech-grpc.softpaws.xyz   | Based on HTTP2. Not for use with browsers. |
 

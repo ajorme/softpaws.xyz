@@ -32,7 +32,7 @@ Go to advanced settings in Keplr and enable "Show Advanced IBC Transfers"
 2. On Keplr select the Osmosis network.
 3. In the IBC Transfer section select "Transfer"
 4. Choose "New IBC Transfer Channel" if you have not already set up the channel to Echelon.
-5. Type `channel-262`
+5. Type `channel-403`
 6. Choose the recipient. (Your address copied in step 1)
 7. Click next
 8. Select the desired token (ECH)
@@ -45,7 +45,7 @@ Go to advanced settings in Keplr and enable "Show Advanced IBC Transfers"
 2. On Keplr select the Echelon network.
 3. In the IBC Transfer section select "Transfer"
 4. Choose "New IBC Transfer Channel" if you have not already set up the channel to Echelon.
-5. Type `channel-8`
+5. Type `channel-11`
 6. Choose the recipient. (Your address copied in step 1)
 7. Click next
 8. Select the desired token (ECH)
