@@ -29,6 +29,12 @@ sidebar_position: 6
 | API            | https://ech-api.softpaws.xyz    | Use to make API calls                      |
 | GRPC           | https://ech-grpc.softpaws.xyz   | Based on HTTP2. Not for use with browsers. |
 
+## IBC
+
+| Chain   | Channel From ECH To Chain | Channel To ECH From Chain                                           |
+| ------- | ------------------------- | ------------------------------------------------------------------- |
+| Osmosis | channel-11                | [channel-403](https://www.mintscan.io/osmosis/relayers/channel-403) |
+
 ## Useful Links
 
 | Link                                                    | Description                                                                       |
@@ -42,4 +48,4 @@ sidebar_position: 6
 | [Restake](https://restake.app/echelon)                  | Tool for auto-compounding staked coins for Echelon and other Cosmos based chains. |
 | [Echelon Discord Server](https://discord.gg/2gXVYzqQA7) | Used for primary communications.                                                  |
 | [ Echelon Telegram](https://t.me/echelonchain)          | Secondary communication channel.                                                  |
-| [ ECH World](https://ech.world/)          | All about Echelon blockchain. (Has Project List)                                             |
+| [ ECH World](https://ech.world/)                        | All about Echelon blockchain. (Has Project List)                                  |
