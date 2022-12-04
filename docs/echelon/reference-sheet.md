@@ -13,6 +13,14 @@ sidebar_position: 6
 | Echelon Relayer Wallet | echelon1wnhew5hjf9zu3e2cqrkd724dyv3qnsx8q5yjqx        |
 | Osmosis Relayer Wallet | osmo1q3e4d6kv4p5emgzcjaf89g7haxczrwke54vaul           |
 
+## Charts
+
+| Name                              | Address                              |
+| --------------------------------- | ------------------------------------ |
+| Osmosis ECH/OSMO Pool             | https://dexscreener.com/osmosis/848  |
+| Osmosis ECH/USDC Pool             | [https://dexscreener.com/osmosis/849 |
+| Osmosis ECH 20 % / USDC 80 % Pool | https://dexscreener.com/osmosis/850  |
+
 ## Echelon Wallets
 
 | Name           | Address                                        |
@@ -22,12 +30,12 @@ sidebar_position: 6
 
 ## Endpoints
 
-| Type           | Endpoint                        | Description                                |
-| -------------- | ------------------------------- | ------------------------------------------ |
-| Tendermint RPC | https://ech-rpc.softpaws.xyz    | Use with Keplr                             |
-| EVM RPC        | https://ech-evm.softpaws.xyz | Use with Metamask                          |
-| API            | https://ech-api.softpaws.xyz    | Use to make API calls                      |
-| GRPC           | https://ech-grpc.softpaws.xyz   | Based on HTTP2. Not for use with browsers. |
+| Type           | Endpoint                      | Description                                |
+| -------------- | ----------------------------- | ------------------------------------------ |
+| Tendermint RPC | https://ech-rpc.softpaws.xyz  | Use with Keplr                             |
+| EVM RPC        | https://ech-evm.softpaws.xyz  | Use with Metamask                          |
+| API            | https://ech-api.softpaws.xyz  | Use to make API calls                      |
+| GRPC           | https://ech-grpc.softpaws.xyz | Based on HTTP2. Not for use with browsers. |
 
 ## IBC
 
